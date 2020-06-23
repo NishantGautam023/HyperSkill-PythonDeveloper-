@@ -10,7 +10,7 @@ to enhance my python skills.  [Hyperskill](https://hyperskill.org/curriculum)
 
 
 
- - [-] Simple Chatty Bot
+ - [x] Simple Chatty Bot
  - [ ] ZooKeeper
  - [ ] Hangman
  - [ ] Tic-Tac-Toe
